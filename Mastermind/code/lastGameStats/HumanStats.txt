@@ -1,0 +1,22 @@
+Codebreaker : Human
+Time of game : 2020/01/16 11:33:20
+Code to break : [2, 4, 6, 3]
+Amount of guesses made : 7
+Time to guess (ms) : 120190
+
+Guess 1 : [1, 1, 2, 2]
+
+Guess 2 : [6, 6, 1, 1]
+
+Guess 3 : [2, 4, 4, 6]
+
+Guess 4 : [5, 2, 4, 6]
+
+Guess 5 : [2, 4, 6, 5]
+
+Guess 6 : [2, 4, 6, 4]
+
+Guess 7 : [2, 4, 6, 6]
+
+Guess 8 : [2, 4, 6, 3]
+

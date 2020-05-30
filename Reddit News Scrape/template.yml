@@ -1,0 +1,20 @@
+title:
+    css: a.title.outbound
+    multiple: true
+    type: Text
+org:
+    css: 'div.thing:nth-of-type(n+3) span.domain a'
+    multiple: true
+    type: Text
+upvotes:
+    css: 'div.thing:nth-of-type(n+3) div.score.unvoted'
+    multiple: true
+    type: Text
+comments:
+    css: 'div.thing:nth-of-type(n+3) a.bylink'
+    multiple: true
+    type: Text
+time:
+    css: 'div.thing:nth-of-type(n+3) time.live-timestamp'
+    multiple: true
+    type: Text
